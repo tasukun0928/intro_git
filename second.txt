@@ -9,4 +9,3 @@ git init リポジトリを新規作成する
 file change
 git add
 git commit
-git push
