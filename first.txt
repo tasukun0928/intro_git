@@ -3,3 +3,5 @@
 ・git add
 ・git commit
 ・git rm
+
+もう一度復習！
